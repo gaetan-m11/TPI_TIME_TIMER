@@ -1,0 +1,143 @@
+Removed Pin From Net: NetName=Gain 2 Pin=C8-C
+Removed Pin From Net: NetName=GND Pin=C12-C
+Removed Pin From Net: NetName=+3.3V Pin=C16-A
+Removed Pin From Net: NetName=GND Pin=C16-C
+Removed Pin From Net: NetName=+5V Pin=C21-A
+Removed Pin From Net: NetName=GND Pin=C21-C
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=Vbat Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=NetIC5_37 Pin=R5-2
+Change Component Footprint: Designator=C8 Old Footprint=Condo 100 mil New Footprint=CAPAE530X550N
+Change Component Footprint: Designator=C9 Old Footprint=Condo 100 mil New Footprint=CAPAE1030X1050N
+Change Component Footprint: Designator=C16 Old Footprint=Condo 100 mil New Footprint=CAPAE1030X1310N
+Change Component Footprint: Designator=C21 Old Footprint=Condo 100 mil New Footprint=CAPAE1030X1310N
+Change Component Footprint: Designator=C12 Old Footprint=Condo 100 mil New Footprint=EEHZT1E561UV
+Change Component Footprint: Designator=C4 Old Footprint=Condo céramique 100mil New Footprint=MyCapacitor 1206 [SMD]
+Change Component Footprint: Designator=Q1 Old Footprint=TL431CDBZR215 New Footprint=SOT95P251X112-3N
+Change Component Footprint: Designator=L1 Old Footprint=WE-TI_809589 New Footprint=INDPM7366X300N
+Change Component Footprint: Designator=L2 Old Footprint=WE-TI_809589 New Footprint=INDPM7366X300N
+Change Component Comment : Designator=Q1 Old Comment=2N7002BK New Comment=FDN340P
+Change Component Comment : Designator=L1 Old Comment=10uH New Comment=SRP7028CC-100M
+Change Component Comment : Designator=L2 Old Comment=10uH New Comment=SRP7028CC-100M
+Change Component Comment : Designator=C9 Old Comment=220u New Comment=220uF
+Change component parameters: Designator = "C8" ("C8"); Footprint = "Condo 100 mil"; UniqueID = "\CHTYNLTU" ("\CHTYNLTU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.com/pbs/datasheet/865230542002.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "865230542002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-865230542002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/865230542002?qs=0KOYDY2FL2%2F9Zrx1rvGWxQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "Condo 100 mil"; UniqueID = "\QBUDHRZM" ("\QBUDHRZM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.co.uk/datasheet/2/447/KEM_A4125_A785-3368732.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A785MN826M1JLAS030"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-A785MN826M1JLAS30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/A785MN826M1JLAS030?qs=HoCaDK9Nz5cVflOfO51YlQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "Condo 100 mil"; UniqueID = "\NUEDJGSB" ("\NUEDJGSB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDD0000/ABA0000C1221.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEH-ZA1K470V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-EEH-ZA1K470V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/EEH-ZA1K470V?qs=1Kr7Jg1SGW%2FtZcuby2Gpxw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "Condo 100 mil"; UniqueID = "\FIHIHDCF" ("\FIHIHDCF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-pcm.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "13.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PCM1J101MCL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "Condo 100 mil"; UniqueID = "\CFXCBGBB" ("\CFXCBGBB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-pcm.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "13.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PCM1J101MCL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "WE-TI_809589"; UniqueID = "\ZHHEJAXO" ("\ZHHEJAXO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/SRP7028CC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SRP7028CC-100M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-SRP7028CC-100M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/SRP7028CC-100M?qs=1Kr7Jg1SGW%252BFrchEKUd2WQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "WE-TI_809589"; UniqueID = "\HYDOWBFN" ("\HYDOWBFN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/SRP7028CC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SRP7028CC-100M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-SRP7028CC-100M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/SRP7028CC-100M?qs=1Kr7Jg1SGW%252BFrchEKUd2WQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "TL431CDBZR215"; UniqueID = "\EUJHMIGW" ("\EUJHMIGW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.12mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Rochester Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FDN340P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R27(Resistor 1206)
+Added Component: Designator=S1(436331045822)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/components/products/datasheet/436331045822.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "436331045822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-436331045822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/436331045822?qs=wr8lucFkNMXz9UbduBxtIQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Gain 2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=+3.3V Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=+5V Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Add Pin To Net: Unknown Pin: Pin DS1-MH1
+Add Pin To Net: Unknown Pin: Pin DS1-MH2
+Add Pin To Net: Unknown Pin: Pin DS1-MH3
+Add Pin To Net: Unknown Pin: Pin DS1-MH4
+Added Pin To Net: NetName=Vbat Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetIC5_37 Pin=R5-1
+Added Pin To Net: NetName=Vbat Pin=R5-2
+Added Pin To Net: NetName=+3.3V Pin=R27-1
+Added Pin To Net: NetName=NetDS1_16 Pin=R27-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=NetDS1_16 Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=NetDS1_16 Pin=S1-4
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R9-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C11-2
+Added Pin To Net: NetName=NetC9_1 Pin=U2-5
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=J3-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=U2-7
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-1
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=TPI_time_timer Member=Component R27 10k
+Added Member To Class: ClassName=TPI_time_timer Member=Component S1 436331045822

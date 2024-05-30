@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=S1 NewDesignator=S2
+Add Pin To Net: Unknown Pin: Pin P2-MH1
+Add Pin To Net: Unknown Pin: Pin P2-MH2
+Add Pin To Net: Unknown Pin: Pin P2-MH3
+Add Pin To Net: Unknown Pin: Pin P2-MH4
+Added Member To Class: ClassName=TPI_time_timer Member=Component P2 NHD-3.12-25664UCB2
+Added Member To Class: ClassName=TPI_time_timer Member=Component Q2 2N7002BK
+Added Member To Class: ClassName=TPI_time_timer Member=Component Q3 2N7002BK
+Added Member To Class: ClassName=TPI_time_timer Member=Component Q4 STPS2L40U
+Added Member To Class: ClassName=TPI_time_timer Member=Component S2 436331045822

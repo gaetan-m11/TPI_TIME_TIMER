@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C11 Old Footprint=Condo metal 300mil New Footprint=MyCapacitor 1206 [SMD]
+Add Pin To Net: Unknown Pin: Pin DS1-MH1
+Add Pin To Net: Unknown Pin: Pin DS1-MH2
+Add Pin To Net: Unknown Pin: Pin DS1-MH3
+Add Pin To Net: Unknown Pin: Pin DS1-MH4
+Added Member To Class: ClassName=TPI_time_timer Member=Component R21 10k

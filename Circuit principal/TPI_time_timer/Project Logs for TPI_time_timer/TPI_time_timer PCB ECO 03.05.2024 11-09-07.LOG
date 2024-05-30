@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=NetIC4_3 Pin=J5-3
-Removed Pin From Net: NetName=NetIC4_4 Pin=J5-4
-Add Pin To Net: Unknown Pin: Pin DS1-MH1
-Add Pin To Net: Unknown Pin: Pin DS1-MH2
-Add Pin To Net: Unknown Pin: Pin DS1-MH3
-Add Pin To Net: Unknown Pin: Pin DS1-MH4
-Added Pin To Net: NetName=NetIC4_4 Pin=J5-3
-Added Pin To Net: NetName=NetIC4_3 Pin=J5-4
-Added Member To Class: ClassName=TPI_time_timer Member=Component R21 10k

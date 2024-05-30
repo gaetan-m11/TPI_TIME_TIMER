@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LED_BAT_breakout.PrjPcb]
+   Generated File[LED_BAT_breakout.GTO]
+   Generated File[LED_BAT_breakout.GTP]
+   Generated File[LED_BAT_breakout.GTS]
+   Generated File[LED_BAT_breakout.GTL]
+   Generated File[LED_BAT_breakout.GBL]
+   Generated File[LED_BAT_breakout.GBS]
+   Generated File[LED_BAT_breakout.GBP]
+   Generated File[LED_BAT_breakout.GBO]
+   Generated File[LED_BAT_breakout.GM2]
+   Generated File[LED_BAT_breakout.GM]
+   Generated File[LED_BAT_breakout.EXTREP]
+   Generated File[LED_BAT_breakout.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 15:06:59 On 08.05.2024

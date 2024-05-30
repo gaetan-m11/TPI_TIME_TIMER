@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VCC Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=IC9-3
+Removed Pin From Net: NetName=GND Pin=IC9-4
+Removed Pin From Net: NetName=VCC Pin=IC9-10
+Removed Pin From Net: NetName=GND Pin=L2-1
+Removed Pin From Net: NetName=GND Pin=L2-2
+Add Pin To Net: Unknown Pin: Pin DS1-MH1
+Add Pin To Net: Unknown Pin: Pin DS1-MH2
+Add Pin To Net: Unknown Pin: Pin DS1-MH3
+Add Pin To Net: Unknown Pin: Pin DS1-MH4
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=IC9-10
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetIC9_3 Pin=IC9-3
+Added Pin To Net: NetName=NetIC9_3 Pin=L2-2
+Added Net: Name=NetIC9_3
+Added Pin To Net: NetName=NetIC9_4 Pin=IC9-4
+Added Pin To Net: NetName=NetIC9_4 Pin=L2-1
+Added Net: Name=NetIC9_4

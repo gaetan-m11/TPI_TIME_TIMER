@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=NetDS1_8 Pin=DS1-8
+Removed Pin From Net: NetName=NetDS1_7 Pin=IC5-13
+Removed Pin From Net: NetName=NetDS1_7 Pin=IC8-5
+Removed Pin From Net: NetName=GND Pin=IC9-2
+Removed Pin From Net: NetName=GND Pin=IC9-5
+Removed Pin From Net: NetName=+5V Pin=IC9-6
+Removed Pin From Net: NetName=VCC Pin=IC9-7
+Removed Pin From Net: NetName=VCC Pin=IC9-8
+Removed Pin From Net: NetName=NetIC9_9 Pin=IC9-9
+Removed Pin From Net: NetName=NetC17_1 Pin=IC9-10
+Removed Pin From Net: NetName=GND Pin=IC9-11
+Removed Pin From Net: NetName=NetIC7_4 Pin=L1-1
+Removed Pin From Net: NetName=NetIC7_3 Pin=L1-2
+Removed Pin From Net: NetName=NetIC7_1 Pin=R16-1
+Removed Member From Class: ClassName=TPI_time_timer Member=IC9
+Change Component Footprint: Designator=R12 Old Footprint=Resistor 1206 New Footprint=Resistor sandard tr.
+Added Component: Designator=IC7(SOP50P490X110-10N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTC3440EMS#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltc3440emspbf/analog-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/3440fd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTC3440EMS#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LTC3440EMS#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC3440EMSPBF?qs=hVkxg5c3xu%2F50%252Bg90voenw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC10(SOP50P490X110-10N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LTC3440EMS#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ltc3440emspbf/analog-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/3440fd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTC3440EMS#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LTC3440EMS#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC3440EMSPBF?qs=hVkxg5c3xu%2F50%252Bg90voenw%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin DS1-MH1
+Add Pin To Net: Unknown Pin: Pin DS1-MH2
+Add Pin To Net: Unknown Pin: Pin DS1-MH3
+Add Pin To Net: Unknown Pin: Pin DS1-MH4
+Added Pin To Net: NetName=NetDS1_7 Pin=IC5-30
+Added Pin To Net: NetName=NetIC7_1 Pin=IC7-1
+Added Pin To Net: NetName=GND Pin=IC7-2
+Added Pin To Net: NetName=NetIC7_3 Pin=IC7-3
+Added Pin To Net: NetName=NetIC7_4 Pin=IC7-4
+Added Pin To Net: NetName=GND Pin=IC7-5
+Added Pin To Net: NetName=+5V Pin=IC7-6
+Added Pin To Net: NetName=VCC Pin=IC7-7
+Added Pin To Net: NetName=VCC Pin=IC7-8
+Added Pin To Net: NetName=NetIC9_9 Pin=IC7-9
+Added Pin To Net: NetName=NetC17_1 Pin=IC7-10
+Added Pin To Net: NetName=GND Pin=IC10-2
+Added Pin To Net: NetName=GND Pin=IC10-5
+Added Pin To Net: NetName=+3.3V Pin=IC10-6
+Added Pin To Net: NetName=VCC Pin=IC10-7
+Added Pin To Net: NetName=VCC Pin=IC10-8
+Added Pin To Net: NetName=NetIC7_9 Pin=IC10-9
+Added Pin To Net: NetName=NetC14_1 Pin=IC10-10
+Added Pin To Net: NetName=NetIC7_4 Pin=L2-1
+Added Pin To Net: NetName=NetIC7_3 Pin=L2-2
+Added Pin To Net: NetName=NetIC7_1 Pin=R24-1
+Change Net Name : Old Net Name=NetDS1_8 New Net Name=NetIC5_16
+Change Net Name : Old Net Name=NetIC7_9 New Net Name=NetIC10_9
+Change Net Name : Old Net Name=NetIC9_9 New Net Name=NetIC7_9
+Added Pin To Net: NetName=NetDS1_8 Pin=DS1-8
+Added Pin To Net: NetName=NetDS1_8 Pin=IC5-37
+Added Net: Name=NetDS1_8
+Added Pin To Net: NetName=NetIC5_13 Pin=IC5-13
+Added Pin To Net: NetName=NetIC5_13 Pin=IC8-5
+Added Pin To Net: NetName=NetIC5_13 Pin=J6-5
+Added Net: Name=NetIC5_13
+Added Pin To Net: NetName=NetIC5_28 Pin=IC5-28
+Added Pin To Net: NetName=NetIC5_28 Pin=J1-2
+Added Net: Name=NetIC5_28
+Added Pin To Net: NetName=NetIC10_1 Pin=IC10-1
+Added Pin To Net: NetName=NetIC10_1 Pin=R16-1
+Added Net: Name=NetIC10_1
+Added Pin To Net: NetName=NetIC10_3 Pin=IC10-3
+Added Pin To Net: NetName=NetIC10_3 Pin=L1-2
+Added Net: Name=NetIC10_3
+Added Pin To Net: NetName=NetIC10_4 Pin=IC10-4
+Added Pin To Net: NetName=NetIC10_4 Pin=L1-1
+Added Net: Name=NetIC10_4
+Added Member To Class: ClassName=TPI_time_timer Member=Component IC7 LTC3440EMS#PBF
+Added Member To Class: ClassName=TPI_time_timer Member=Component IC10 LTC3440EMS#PBF

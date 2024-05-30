@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P2 Old Footprint=Trimmer 1 New Footprint=PVG3A103C01R00
+Add Pin To Net: Unknown Pin: Pin DS1-MH1
+Add Pin To Net: Unknown Pin: Pin DS1-MH2
+Add Pin To Net: Unknown Pin: Pin DS1-MH3
+Add Pin To Net: Unknown Pin: Pin DS1-MH4
+Added Member To Class: ClassName=TPI_time_timer Member=Component R21 10k

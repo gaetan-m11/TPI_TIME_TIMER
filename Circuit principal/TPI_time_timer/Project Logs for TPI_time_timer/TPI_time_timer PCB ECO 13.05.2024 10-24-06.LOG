@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Vusb Pin=R32-1
+Removed Pin From Net: NetName=Vusb Pin=R32-2
+Change Component Footprint: Designator=IC4 Old Footprint=SOP50P490X110-10N New Footprint=SON50P300X300X100-11N-D
+Change Component Comment : Designator=IC4 Old Comment=MCP73833-BZI_UN New Comment=MCP73833T-AMI_MF
+Change component parameters: Designator = "IC4" ("IC4"); Footprint = "SOP50P490X110-10N"; UniqueID = "\LKYLHBSG" ("\LKYLHBSG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MCP73833T-AMI/MF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp73833t-amimf/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090109.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP73833T-AMI/MF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP73833T-AMI/MF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP73833T-AMI-MF?qs=Fxu3fLyJv8epbqy6GsGQQA%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin DS1-MH1
+Add Pin To Net: Unknown Pin: Pin DS1-MH2
+Add Pin To Net: Unknown Pin: Pin DS1-MH3
+Add Pin To Net: Unknown Pin: Pin DS1-MH4
+Added Pin To Net: NetName=GND Pin=IC4-11
